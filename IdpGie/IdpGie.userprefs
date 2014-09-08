@@ -1,10 +1,11 @@
 ﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Interaction/ClingoSession.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/ProgramManager.cs">
     <Files>
       <File FileName="Interaction/IdpInteraction.cs" Line="1" Column="1" />
-      <File FileName="Interaction/ClingoSession.cs" Line="32" Column="20" />
+      <File FileName="Interaction/ClingoSession.cs" Line="34" Column="57" />
       <File FileName="Core/ProcessSession.cs" Line="1" Column="1" />
+      <File FileName="Core/ProgramManager.cs" Line="27" Column="12" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
